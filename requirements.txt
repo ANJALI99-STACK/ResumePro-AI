@@ -74,6 +74,8 @@ undetected-chromedriver==3.5.5
 pypdf2==2.0.0
 pypdf
 webdriver-manager
+reportlab
+
 
 
 
