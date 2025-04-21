@@ -8,13 +8,9 @@ requests==2.32.3
 pandas==2.2.3
 openai==1.16.2
 tqdm==4.67.1
-
-# Required for some parsing/scraping
 urllib3==2.2.3
 certifi==2024.12.14
 charset-normalizer==3.4.0
 idna==3.10
-
-# Optional but useful
-pillow==11.2.1
+pillow==10.2.0  
 pyarrow==19.0.1
