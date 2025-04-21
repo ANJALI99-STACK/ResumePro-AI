@@ -71,6 +71,8 @@ selenium==4.20.0
 chromedriver-autoinstaller==0.6.3
 undetected-chromedriver==3.5.5
 pypdf2==2.0.0
+pypdf
+
 
 
 
